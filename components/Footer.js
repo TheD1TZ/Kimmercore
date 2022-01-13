@@ -1,11 +1,11 @@
-import styles from './Footer.module.css'
 
 export default function Footer() {
   return (
-    <>
-      <footer className={styles.footer}>
-        Made with <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} /> for you
-      </footer>
-    </>
+    <footer className="w-full h-18 flex justify-center align-middle bg-black text-white">
+      <div className="text-center">
+        <p>All rights reserved ©</p>
+        <p>Made by: Ditz</p>
+      </div>
+    </footer>
   )
 }
