@@ -7,7 +7,8 @@ export default function Home() {
     <div>
       <Head>
         <title>Kimmercore</title>
-        <link rel="icon" href="https://i.imgur.com/ZEsjkIu.png" />
+        <link rel="shortcut icon" href="/public/ico.ico" type="image/x-icon"/>
+        
       </Head>
 
       <main>
@@ -36,6 +37,7 @@ export default function Home() {
           </div>
         </div>
       </main>
+
       <Footer />
     </div>
   )
