@@ -8,6 +8,8 @@ function socials() {
             <Head>
                 <title>Kimmercore</title>
                 <link rel="icon" href="/img/kimmercore-logo.png" />
+                <link rel="shortcut icon" href="/public/ico.ico" type="image/x-icon"/>
+
             </Head>
 
             <main>

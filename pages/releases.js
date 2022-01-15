@@ -8,7 +8,7 @@ function releases() {
         <div>
             <Head>
                 <title>Kimmercore</title>
-                <link rel="icon" href="/public/kimmercore-logo.png" />
+                <link rel="shortcut icon" href="/public/ico.ico" type="image/x-icon"/>
             </Head>
 
             <main>
