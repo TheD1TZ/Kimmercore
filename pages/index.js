@@ -1,4 +1,6 @@
 import Head from 'next/head'
+import React from "react";
+import Link from "next/link";
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
@@ -7,11 +9,11 @@ export default function Home() {
     <div>
       <Head>
         <title>Kimmercore</title>
-        <link rel="icon" href="/public/kimmercore-logo.png" />
+        <link rel="icon" href="/img/kimmercore-logo.png" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header/>
         <div className="relative overflow-hidden p-20">
           <div className="pt-16 pb-80 sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
             <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 sm:static">
