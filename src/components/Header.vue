@@ -16,7 +16,7 @@
               <a href="/" class="block text-lg py-2 pr-4 pl-3 transition duration-300 ease-in-out hover:duration-300 hover:text-blue-300 text-gray-100 border-b hover:bg-white md:hover:bg-transparent md:border-0 md:p-0">Home</a>
             </li>
             <li>
-              <a href="/contact" class="block text-lg py-2 pr-4 pl-3 transition duration-300 ease-in-out hover:duration-300 hover:text-blue-300 text-gray-100 hover:bg-white md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 ">Bookings</a>
+              <a href="/bookings" class="block text-lg py-2 pr-4 pl-3 transition duration-300 ease-in-out hover:duration-300 hover:text-blue-300 text-gray-100 hover:bg-white md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 ">Bookings</a>
             </li>
           </ul>
         </div>
