@@ -6,7 +6,7 @@
 
         <div class="grid justify-center content-center">
           <h1 class="text-white text-4xl py-5">Contact</h1>
-          <h1 class="text-white text-4xl py-5 ">Email: <a class="select-text">kimmercore@gmail.com</a></h1>
+          <h1 class="text-white text-4xl py-5 ">Email: <a class="select-text">contact@kimmercore.nl</a></h1>
         </div>
 
 
